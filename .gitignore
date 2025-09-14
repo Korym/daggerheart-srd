@@ -4,3 +4,4 @@ desktop.ini
 .build/pages/*
 .build/.env
 .obsidian/workspace.json
+.obsidian/plugins/
